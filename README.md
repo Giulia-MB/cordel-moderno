@@ -33,6 +33,17 @@ A página apresenta o texto do cordel dividido em seções, alternando partes co
 
 Esse é um projeto de estudo focado em HTML e CSS. Ele ajudou a praticar não só a estrutura da página, mas também a parte visual, mostrando como pequenas escolhas de fonte, imagem e espaçamento mudam bastante a experiência de leitura.
 
+## 📄 Licença e créditos
+
+Este projeto foi desenvolvido como parte de um desafio do **Curso HTML5 e CSS3**, do **Curso em Vídeo**, ministrado pelo professor **Gustavo Guanabara**.
+
+O material original do curso está disponível sob a **Licença MIT**, permitindo uso, cópia, modificação e distribuição, desde que o aviso de copyright e a licença sejam mantidos.
+
+- <a href="https://github.com/gustavoguanabara/html-css/blob/master/LICENSE" target="_blank">Licença MIT do material original</a>
+- <a href="https://www.youtube.com/@cursoemvideo" target="_blank">Canal Curso em Vídeo no YouTube</a>
+- <a href="https://www.cursoemvideo.com/cursos/" target="_blank">Página de cursos do Curso em Vídeo</a>
+- <a href="https://gustavoguanabara.github.io/" target="_blank">Repositório do curso do professor Gustavo Guanabara</a>
+
 ## ▶️ Execute aqui
 
 - <a href="https://giulia-mb.github.io/cordel-moderno/index.html" target="_blank">Projeto Cordel Moderno</a>
